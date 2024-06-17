@@ -26,6 +26,30 @@ new Vue({
           favorited: false
         },
         {
+          name: "DJ Tetap Dalam Jiwa",
+          artist: "DJ Apriyantoft",
+          cover: "https://i.ytimg.com/vi/M88CB-G72_Q/0.jpg",
+          source: "https://github.com/SyariffH/Media/raw/main/Audio/DJ%20BILA%20MEMANG%20HARUS%20BERPISAH%20AKU%20AKAN%20TETAP%20SETIA%20%20DJ%20TETAP%20DALAM%20JIWA%20VIR%20TIK%20TOK%20TERBARU%202024%20!.mp3",
+          url: "https://youtu.be/M88CB-G72_Q?si=qWnMjNHocKsQ8an4",
+          favorited: false
+        },
+        {
+          name: "DJ Hissatsu Teleport",
+          artist: "Ragil YETE",
+          cover: "https://i.ytimg.com/vi/MufEjZeQ8bo/0.jpg",
+          source: "https://github.com/SyariffH/Media/raw/main/Audio/DJ%20BREAKFUNK%20HISSATSU%20TELEPORT%20JKT48%20(JURUS%20RAHASIA)%20%5BRagil%20YETE%20X%20YOO%20YETE%5D.mp3",
+          url: "https://youtu.be/MufEjZeQ8bo?si=t3oti2KfJpcXScig",
+          favorited: false
+        },
+        {
+          name: "DJ Kamu Yang Kasih Tinggal",
+          artist: "DJ Apriyantoft",
+          cover: "https://i.ytimg.com/vi/YFMuLoCWbyA/0.jpg",
+          source: "https://github.com/SyariffH/Media/raw/main/Audio/DJ%20KAMU%20YANG%20KASIH%20TINGGAL%20UCIL%20PANGKI%20MELODY%20ULAR%20VIRAL%20TIK%20TOK%20TERBARU%202024%20YANG%20KALIAN%20CARI%20!.mp3",
+          url: "https://youtu.be/YFMuLoCWbyA?si=8QyX0UoLQPdm6ps0",
+          favorited: false
+        },
+        {
           name: "Don't Be Shy",
           artist: "Alosa & Jaime Deraz",
           cover: "https://i.ytimg.com/vi/jkTx3gYsh_E/0.jpg",
