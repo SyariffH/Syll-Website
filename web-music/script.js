@@ -1,4 +1,4 @@
-1lnew Vue({
+new Vue({
   el: "#app",
   data() {
     return {
