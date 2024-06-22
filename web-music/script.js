@@ -1,4 +1,4 @@
-new Vue({
+1lnew Vue({
   el: "#app",
   data() {
     return {
@@ -30,7 +30,7 @@ new Vue({
           artist: "Dj Alpin Remix",
           cover: "https://i.ytimg.com/vi/LmRiSWv-dnE?/0.jpg",
           source: "https://github.com/SyariffH/Media/raw/main/Audio/DJ%20DYNASTY%20BY%20MANOK%20VIRAL%20TIK%20TOK%20TERBARU%202024!!.mp3ND%20!!!!!.mp3",
-          url: "https://youtu.be/LmRiSWv-dnE?si=xGr6hKAcsZfRB2wf",
+          url: "https://youtu.be/LmRiSWv-dnE?si=4prztk5CM_r8G2rk",
           favorited: false
         },
         {
